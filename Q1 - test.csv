@@ -1,0 +1,16 @@
+Patient ID,Gender,Age,Height(cm),Weight(kg),Exercise Frequency,Hypertension,Hypoglycemia,Disease History
+1,0,35,175,70,Low,130,5.2,FALSE
+2,1,52,162,68,Medium,145,6.8,TRUE
+3,0,28,180,85,Low,125,5.5,FALSE
+4,0,45,170,90,Medium,138,6.2,TRUE
+5,1,67,158,75,High,160,7.1,TRUE
+6,1,39,165,62,High,118,4.9,FALSE
+7,0,32,177,65,Medium,120,4.8,FALSE
+8,1,50,160,70,Medium,142,6.5,TRUE
+9,0,29,178,78,High,126,5.1,FALSE
+10,0,41,172,83,Low,140,6,TRUE
+11,1,60,157,68,High,155,7,TRUE
+12,0,34,176,72,Medium,128,5.4,FALSE
+13,1,45,164,65,Low,135,6.3,FALSE
+14,0,38,179,80,High,133,5.7,FALSE
+15,1,55,161,69,Medium,148,6.6,TRUE
